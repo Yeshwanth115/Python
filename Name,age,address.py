@@ -1,3 +1,4 @@
-a=input('Enter your name:')
-b=int(input('Enter your age:'))
-c=input('Enter your address:')
+a=input('Enter the name')
+b=int(input('Enter the age'))
+c=input('Enter the address')
+print(a,"\n",b,"\n",c)
