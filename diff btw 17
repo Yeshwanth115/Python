@@ -1,0 +1,7 @@
+def difference(a):
+    b=abs(a-17)
+    if(a>17):
+        return b*2
+    else:
+        return b
+print(difference(int(input())))
